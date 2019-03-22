@@ -5,4 +5,3 @@ Vivian Tran
 Gestures Assignment - CSCI4849 
 
 Pages Link:  https://vitr2218.github.io/Gestures/ 
-Repo Link: https://github.com/vitr2218/Gestures
